@@ -17,14 +17,60 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+---
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+Two spaces at the end of line are used to insert a line-break.
+Multi level (replace the two dots with two spaces!):
+
+* lvl 1..
+  some indented text
+  * lvl 2
+    * lvl 3
+
+Item
+some indented text
+
+* a
+  * b
+    * c
+
 ```
+will be render as
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+---
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+
+
+* lvl 1
+  some indented text
+  * lvl 2
+    * lvl 3
+
+
+
+
+
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
