@@ -59,7 +59,7 @@ will be render as
 
 
 
-* lvl 1
+* lvl 1  
   some indented text
   * lvl 2
     * lvl 3
